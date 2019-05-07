@@ -1,1 +1,2 @@
 Hello World
+I am learning .Net Core 2.x
